@@ -5,7 +5,7 @@ This project was completed by Cole Bateman, Nabib Ahmed, Fraser Darling, and Arn
 
 ## Image and Video Processor
 
-Our application can take in either an .mp4, .jpg, or .png and apply a wide variety of filters and tone mappings to them. Additionally, we have implemented an automatic background remover tool utilizing tensor flow. 
+Our application can take in either an .mp4, .jpg, or .png and apply a wide variety of filters and tone mappings to them. Additionally, we have implemented a Convolutional Neural Network background remover tool, utilizing tensor flow; our model is based on the work done [here](https://github.com/susheelsk/image-background-removal).
 
 ## Setup
 
