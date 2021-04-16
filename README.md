@@ -29,7 +29,7 @@ If you are not sure that these packages are installed, you can run the following
 pip3 install -r requirements.txt
 ```
 
-Note, you may also need to use ```bash pip ``` instead
+Note, you may also need to use ``` pip ``` instead
 
 ## Usage
 
