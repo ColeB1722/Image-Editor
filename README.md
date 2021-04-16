@@ -5,29 +5,29 @@ This project was completed by Cole Bateman, Nabib Ahmed, Fraser Darling, and Arn
 
 ## Image and Video Processor
 
-Our application can take in either a .mp4, .jpg, or .png and apply a wide variety of filters and tone mappings to them. Additionally, we have implemented an automatic background remover tool utilizing tensor flow. 
+Our application can take in either an .mp4, .jpg, or .png and apply a wide variety of filters and tone mappings to them. Additionally, we have implemented an automatic background remover tool utilizing tensor flow. 
 
 ## Setup
 
 Navigate to the main directory and  run the following in the command line to ensure that your branch is properly set up and trained to run our code.
 
-'''bash 
+```bash 
 setup.sh
-'''
+```
 
 ## Dependencies
 
 You will require the following packages for python. Please be sure to have them installed before hand. 
 
-'''bash
+```bash
 tensorflow, PIL, PySimpleGUI, cv2, numpy, io, os, sys, datetime
-'''
+```
 
 If you are not sure that these packages are installed, you can run the following code to update your environement:
 
-'''bash
+```bash
 pip3 install -r requirements.txt
-'''
+```
 
 Note, you may also need to use '''bash pip ''' instead
 
@@ -35,9 +35,9 @@ Note, you may also need to use '''bash pip ''' instead
 
 All you need to do to run the code is the following:
 
-'''bash
+```bash
 python3 interface.py
-'''					
+```					
 
 ## Getting Started 
 
