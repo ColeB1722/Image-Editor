@@ -3,6 +3,8 @@ A Python based Image and Video Editor
 
 This project was completed by Cole Bateman, Nabib Ahmed, Fraser Darling, and Arnav Srivastava as the final project submission for Harvard Universiy couse ES143: Computer Vision. Our documentation, including a thorough explination of the methods implemented in the editor, of this project is included in this [Final Project Report](https://drive.google.com/file/d/1-aH2Rr_w4T_-lZrQVSJTMinX2hhDBoSt/view?usp=sharing).
 
+You can find examples of the video processing [here](https://www.youtube.com/watch?v=bZTFA6XCHXo&t=91s&ab_channel=ColeBateman) and [here](https://www.youtube.com/watch?v=d1EGuYXyT1Q&ab_channel=ColeBateman).
+
 ## Image and Video Processor
 
 Our application can take in either an .mp4, .jpg, or .png and apply a wide variety of filters and tone mappings to them. Additionally, we have implemented a Convolutional Neural Network background remover tool, utilizing tensor flow; our model is based on the work done [here](https://github.com/susheelsk/image-background-removal).
