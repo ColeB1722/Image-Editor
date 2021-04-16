@@ -3,11 +3,11 @@ A Python based Image and Video Editor
 
 This project was completed by Cole Bateman, Nabib Ahmed, Fraser Darling, and Arnav Srivastava as the final project submission for Harvard Universiy couse ES143: Computer Vision. Our documentation, including a thorough explination of the methods implemented in the editor, of this project is included in this [Final Project Report](https://drive.google.com/file/d/1-aH2Rr_w4T_-lZrQVSJTMinX2hhDBoSt/view?usp=sharing).
 
-# Image and Video Processor
+## Image and Video Processor
 
 Our application can take in either a .mp4, .jpg, or .png and apply a wide variety of filters and tone mappings to them. Additionally, we have implemented an automatic background remover tool utilizing tensor flow. 
 
-# Setup
+## Setup
 
 Navigate to the main directory and  run the following in the command line to ensure that your branch is properly set up and trained to run our code.
 
@@ -15,7 +15,7 @@ Navigate to the main directory and  run the following in the command line to ens
 setup.sh
 '''
 
-# Dependencies
+## Dependencies
 
 You will require the following packages for python. Please be sure to have them installed before hand. 
 
@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 
 Note, you may also need to use '''bash pip ''' instead
 
-# Usage
+## Usage
 
 All you need to do to run the code is the following:
 
@@ -39,7 +39,7 @@ All you need to do to run the code is the following:
 python3 interface.py
 '''					
 
-#Getting Started 
+## Getting Started 
 
 You can use the integrated file explorer to search through any directory for your inputted image.
 
@@ -49,7 +49,7 @@ Any saved images or video will be save to the same directory that the code was r
 
 Finally, we have provided an image called sample.jpg as a useful start to your exploration of our system
 
-#Limitations
+## Limitations
 
 We hope you have fun playing with our application! Note, some combinations of effects can cause the system to crash, namely those including Threshold, Canny, Hue, or Enhance. We believe this to be due to the change in color channels these filters create in the input image.
 
