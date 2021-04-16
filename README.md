@@ -43,9 +43,9 @@ python3 interface.py
 
 You can use the integrated file explorer to search through any directory for your inputted image.
 
-However, if you plan on using the foreground-background separator you must have the imaged save to the included Images folder.  
+However, if you plan on using the foreground-background separator you must have the image saved to the included Images folder.  
 
-Any saved images or video will be save to the same directory that the code was run in. You can input a name for your saved file in the box next to the Save button in the interface. Video will be saved under render.avi, and cannot be changed. 
+Any processed images or video will be saved to the same directory that the code was run in. You can name your processed file from the box next to the Save button in the interface. Video will be saved under render.avi, and cannot be changed. 
 
 Finally, we have provided an image called sample.jpg as a useful start to your exploration of our system
 
