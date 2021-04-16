@@ -15,9 +15,7 @@ Navigate to the main directory and  run the following in the command line to ens
 setup.sh
 ```
 
-## Dependencies
-
-You will require the following packages for python. Please be sure to have them installed before hand. 
+You will also require the following packages for python. Please be sure to have them installed before hand. 
 
 ```bash
 tensorflow, PIL, PySimpleGUI, cv2, numpy, io, os, sys, datetime
